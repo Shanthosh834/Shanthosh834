@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Shanthosh S
 
-<!--
-**Shanthosh834/Shanthosh834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**React Native Developer | Android App Developer**
 
-Here are some ideas to get you started:
+📍 Coimbatore, Tamil Nadu  
+📧 shanthosh.sakthivel2004@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shanthoshs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Work
+- React Native Developer Intern @ Bannari Amman Institute of Technology
+- Building **Task App** - Institutional management system (React Native + Node.js/Express + MySQL)
+
+## 📱 Production Apps Built
+- **Sathya Coatings** - Service booking app (React Native)
+- **SL Self Driving Cars** - GPS tracking & fleet management (React Native)
+- **Hospital Management System** - Patient/doctor modules (Android/Java + SQLite)
+
+## 🛠 Tech Stack
+
+React Native | Android (Java) | Node.js/Express | MySQL/SQLite
+JavaScript | REST APIs | Git/GitHub | XML Layouts
+text
+
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/shanthoshs)
+- 📧 shanthosh.sakthivel2004@gmail.com
