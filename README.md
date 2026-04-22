@@ -10,12 +10,14 @@
 
 ## 🔭 Current Work
 - React Native Developer Intern @ Bannari Amman Institute of Technology
-- Building **Task App** - Institutional management system (React Native + Node.js/Express + MySQL)
+- **Task App** - Institutional management system (React Native + Node.js/Express + MySQL)
+- Building **Attendance App** - Institutional management system (React Native + Node.js/Express + MySQL)
 
 ## 📱 Production Apps Built
 - **Sathya Coatings** - Service booking app (React Native)
 - **SL Self Driving Cars** - GPS tracking & fleet management (React Native)
 - **Hospital Management System** - Patient/doctor modules (Android/Java + SQLite)
+- **Task App** - Institutional management system (React Native + Node.js/Express + MySQL)
 
 ## 🛠 Tech Stack
 
